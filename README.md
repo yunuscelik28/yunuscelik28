@@ -10,7 +10,7 @@ As a technology enthusiast and collaborative problem solver, I enjoy understandi
 
 **Let's connect:**
 * [LinkedIn](https://www.linkedin.com/in/yunus-%C3%A7elik-751031291/)
-* [Email](mailto:yunusccelik28.com)
+* [Email](mailto:yunusccelik28@gmail.com)
 <!--
 **yunuscelik28/yunuscelik28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
