@@ -11,17 +11,17 @@ As a technology enthusiast and collaborative problem solver, I enjoy understandi
 **Let's connect:**
 * [LinkedIn](https://www.linkedin.com/in/yunus-%C3%A7elik-751031291/)
 * [Email](mailto:yunusccelik28@gmail.com)
-<!--
-**yunuscelik28/yunuscelik28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 
+### 🛠️ Tech Stack & Tools
+<p>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yunuscelik28&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunuscelik28&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
+</p>
