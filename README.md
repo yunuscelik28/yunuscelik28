@@ -11,4 +11,3 @@ As a technology enthusiast and collaborative problem solver, I enjoy understandi
 **Let's connect:**
 * [LinkedIn](https://www.linkedin.com/in/yunus-%C3%A7elik-751031291/)
 * [Email](mailto:yunusccelik28@gmail.com)
-* 
